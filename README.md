@@ -17,7 +17,7 @@
 | H4k20me1     | H4k20me1StdAlnRep1.bam       | ControlStdAlnRep1.bam       |
 | H2az         | H2azStdAlnRep1.bam           | ControlStdAlnRep1.bam       |
 
-
+### Выдача ChromHMM
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eb91213a-46eb-415d-ad0b-6112ae05e529" alt="emissions_10" width="18%">
   <img src="https://github.com/user-attachments/assets/66a5c149-699c-4591-900e-0588fdbb0070" alt="transitions_10" width="18%">
@@ -41,6 +41,15 @@
 | 9         | H3K09me3 (слабый сигнал)         | Ядерная ламина               | слабый сигнал по TES                              | Гетерохроматин (репрессированный)   |
 | 10        | H3K27me3                         | окончание генов, слабый сигнал по: CpGIsland (часто совпадают с промоторами), экзоны, аннотированные гены, ±5кб от начала транскрипции, ламина                      | Ровный фон слабый по TSS, средний по TES                                   |  Polycomb-репрессия    |
 
+### UCSC GenomeBrowser
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a96a1a12-06b4-4324-a185-28b1b157f773" alt="Снимок экрана 2025-04-13 в 23 14 33" width="33%">
+  <img src="https://github.com/user-attachments/assets/84e75b46-e478-47b6-a96a-2797bf392777" alt="Снимок экрана 2025-04-15 в 22 51 51" width="33%">
+  <img src="https://github.com/user-attachments/assets/0b028b24-a7ec-49ab-bd17-735aefafe8f1" alt="Снимок экрана 2025-04-15 в 22 52 39" width="33%">
+</p>
+
+### UCSC GenomeBrowser с названиями эпигенетических типов
+
+<img width="1372" alt="Снимок экрана 2025-04-15 в 23 00 00" src="https://github.com/user-attachments/assets/331c7462-0f52-4cf9-91c4-4d2946b303a3" />
 
 
-<img width="1173" alt="Снимок экрана 2025-04-13 в 23 14 33" src="https://github.com/user-attachments/assets/a96a1a12-06b4-4324-a185-28b1b157f773" />
